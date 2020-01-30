@@ -1,4 +1,4 @@
-{
+{ "asset":[
    "assetnum":"TEST299",
    "siteid":"BEDFORD",
    "doclinks":[
@@ -15,4 +15,5 @@
       "urlname":"howisthatfor.txt"
    }
    ]
+ ]
 }
