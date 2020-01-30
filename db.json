@@ -1,16 +1,46 @@
-{ 
-   "doclinks":[
-   {
-      "urltype":"FILE",
-      "documentdata":"aGV5IGhvdyBhcmUgeW91",
-      "doctype":"Attachments",
-      "urlname":"greetingsabcd.txt"
-   },
-   {
-      "urltype":"FILE",
-      "documentdata":"aGV5IGhvdyBpcyB0aGF0",
-      "doctype":"Attachments",
-      "urlname":"howisthatfor.txt"
-   }
-   ]
+{
+  "QueryMXSRResponse": {
+    "rsStart": 0,
+    "rsCount": 478,
+    "MXSRSet": {
+      "SR": [
+        {
+          "rowstamp": "[0 0 0 0 5 -86 -101 -65]",
+          "ACTLABCOST": 0.0,
+          "ACTLABHRS": 0.0,
+          "ACTUALSTART": "2019-02-05T15:22:34+01:00",
+          "AFFECTEDDATE": "2018-11-28T10:42:00+01:00",
+          "AFFECTEDPERSON": "DBURAY",
+          "ASSETORGID": "RV_SUEZ",
+          "CHANGEBY": "ILIASS",
+          "CHANGEDATE": "2019-09-10T11:12:43+02:00",
+          "CLASS": "SR",
+          "CLASSSTRUCTUREID": "1271",
+          "CREATEWOMULTI": "MULTI",
+          "DESCRIPTION": "Demande d'achat de matériel",
+          "DESCRIPTION_LONGDESCRIPTION": "Demande d'achat de matériel Nouveau formulaire<!-- RICH TEXT -->",
+          "HASACTIVITY": false,
+          "HASSOLUTION": false,
+          "HISTORYFLAG": false,
+          "INHERITSTATUS": false,
+          "ISGLOBAL": false,
+          "ISKNOWNERROR": false,
+          "ORGID": "RV_SUEZ",
+          "OWNER": "AHARMAK",
+          "RELATEDTOGLOBAL": false,
+          "REPORTDATE": "2018-11-28T10:42:55+01:00",
+          "REPORTEDBY": "DBURAY",
+          "SELFSERVSOLACCESS": true,
+          "SITEID": "RV_1",
+          "SITEVISIT": false,
+          "STATUS": "INPROG",
+          "STATUSDATE": "2019-02-05T15:22:34+01:00",
+          "TARGETCONTACTDATE": "2019-09-19T11:12:00+02:00",
+          "TEMPLATE": false,
+          "TICKETID": "1003",
+          "TICKETUID": 202
+        }
+		]
+	}		
+}
 }
