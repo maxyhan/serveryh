@@ -1,6 +1,7 @@
 { "asset":[
    "assetnum":"TEST299",
-   "siteid":"BEDFORD",
+   "siteid":"BEDFORD"
+    ],
    "doclinks":[
    {
       "urltype":"FILE",
@@ -15,5 +16,4 @@
       "urlname":"howisthatfor.txt"
    }
    ]
- ]
 }
