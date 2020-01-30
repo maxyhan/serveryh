@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "users":
+  "users": [
     {"id": 2,
       "name": "Ervin Howell",
       "username": "Antonette",
@@ -34,4 +34,5 @@
         "bs": "synergize scalable supply-chains"
       }
     }
+   ]
 }
